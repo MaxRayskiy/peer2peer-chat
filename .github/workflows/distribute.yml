@@ -1,4 +1,4 @@
-name: Build and push new container
+name: Build and push new image
 
 on:
   push:
